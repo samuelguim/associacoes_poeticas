@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="com.navideck.universal_ble"
+    minSdkVersion="21"
+    targetSdkVersion="21"
+    mergedManifest="/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    proguardFiles="/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/intermediates/default_proguard_files/global/proguard-android.txt-8.5.0"
+    partialResultsDir="/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out"
+    desugaredMethodsFiles="/home/samuel/.gradle/caches/transforms-4/bde85d18c805956247e5af98c6535ef2/transformed/D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/tmp/kotlin-classes/release:/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="com.navideck.universal_ble"
+      generatedSourceFolders="/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/universal_ble/generated/res/resValues/release"
+      desugaredMethodsFiles="/home/samuel/.gradle/caches/transforms-4/bde85d18c805956247e5af98c6535ef2/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

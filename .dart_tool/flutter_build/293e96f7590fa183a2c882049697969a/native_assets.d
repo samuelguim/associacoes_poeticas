@@ -1,0 +1,1 @@
+ /home/samuel/Documentos/pequena\ maquina/associacoes_poeticas/.dart_tool/flutter_build/293e96f7590fa183a2c882049697969a/native_assets.yaml: 

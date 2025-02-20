@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.navideck.universal_ble-merged_res-25:/drawable-v21/notification_action_background.xml",
+        "source": "com.navideck.universal_ble-core-1.13.1-16:/drawable-v21/notification_action_background.xml"
+    }
+]

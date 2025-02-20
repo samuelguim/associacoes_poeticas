@@ -1,0 +1,14 @@
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/associacoes_poeticas
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/assets/img/disco_1.svg
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/assets/img/disco_2.svg
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/samuel/Documentos/pequena maquina/associacoes_poeticas/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
