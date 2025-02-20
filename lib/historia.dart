@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:soft_edge_blur/soft_edge_blur.dart';
 
 class Historia extends StatefulWidget {
   const Historia({
@@ -83,7 +82,7 @@ class _HistoriaState extends State<Historia>  {
                    style: TextStyle()),
           TextSpan(text: '\n\n	Como parte das figuras apresentavam danos causados pelo tempo, um restauro foi realizado utilizando técnicas de pintura digital. O estudo bibliográfico da produção artística de Lênio Braga foi fundamental para que a identidade da obra fosse mantida durante esse processo.', 
                    style: TextStyle()),
-          TextSpan(text: '\n', 
+          TextSpan(text: '\n\n\n', 
                    style: TextStyle()),
         ],
         style: TextStyle(color: Colors.black)),
@@ -117,7 +116,7 @@ class _HistoriaState extends State<Historia>  {
 
     return Center(
         child: Container(
-          margin: const EdgeInsets.fromLTRB(35, 40, 35, 40),
+          margin: EdgeInsets.fromLTRB(size.width*0.06, 0, size.width*0.06, 0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [ 
@@ -145,14 +144,26 @@ class _HistoriaState extends State<Historia>  {
                     ),
                   ]
                 ),
-                child: const Column(
+                child: Column(
                   children: [
-                    Text(
+                    const Text(
                       'História',  
                       textAlign: TextAlign.justify,
                       style: TextStyle(fontWeight: FontWeight.w600, color: Color(0xFFCD8621))),
-                    Divider(color: Colors.grey),
-                    Text(
+                    SizedBox(
+                      height: 7,
+                      child: Container(
+                        margin: const EdgeInsets.all(2.4),
+                        decoration: const BoxDecoration(
+                          gradient: LinearGradient(colors: [
+                            Color.fromARGB(0, 158, 158, 158),
+                            Color.fromARGB(255, 196, 187, 166),
+                            Color.fromARGB(0, 158, 158, 158),
+                          ])
+                        ),
+                      ),
+                    ),
+                    const Text(
                       'Pequena Máquina de Associações Poéticas',
                       textAlign: TextAlign.center,),
                   ],
@@ -184,57 +195,59 @@ class _HistoriaState extends State<Historia>  {
               //     },
               //   ),
               // ),
-              SoftEdgeBlur(
-                edges: [
-                  EdgeBlur(
-                    type: EdgeType.topEdge, 
-                    size: 10,
-                    sigma: 0, 
-                    tintColor: Theme.of(context).scaffoldBackgroundColor.withOpacity(1),
-                    controlPoints: [
-                      ControlPoint(
-                        position: 0,
-                        type: ControlPointType.visible,
+              Container(
+                constraints: BoxConstraints(maxHeight:size.height*0.6),
+                child: Column(
+                  children: [
+                    Expanded(child: SizedBox(
+                      width: 700,
+                      child: Stack(
+                        children: [
+                          ListView.builder(
+                            //controller: _scrollController,
+                            itemCount: _conteudos.length,
+                            itemBuilder: (context, index){
+                              return _conteudos[index];
+                            },
+                          ),
+                          Align(
+                            alignment: Alignment.topCenter,
+                            child: Container(
+                              decoration: const BoxDecoration(
+                                gradient: LinearGradient(
+                                  begin: Alignment.topCenter,
+                                  end: Alignment.bottomCenter,
+                                  colors: [
+                                    Color.fromARGB(255, 226, 222, 220),
+                                    Color.fromARGB(255, 226, 222, 220),
+                                    Color.fromARGB(128, 226, 222, 220),
+                                    Color.fromARGB(0, 226, 222, 220),
+                                  ])
+                              ),
+                              height: 20,),
+                          ),
+                          Align(
+                            alignment: Alignment.bottomCenter,
+                            child: Container(
+                              decoration: const BoxDecoration(
+                                gradient: LinearGradient(
+                                  begin: Alignment.bottomCenter,
+                                  end: Alignment.topCenter,
+                                  colors: [
+                                    Color.fromARGB(255, 226, 222, 220),
+                                    Color.fromARGB(255, 226, 222, 220),
+                                    Color.fromARGB(128, 226, 222, 220),
+                                    Color.fromARGB(0, 226, 222, 220),
+                                  ])
+                              ),
+                              height: 50,),
+                          ),
+                          
+                        ],
                       ),
-                      ControlPoint(
-                        position: 1.0,
-                        type: ControlPointType.transparent,
-                      ),
-                    ],),
-                  EdgeBlur(
-                    type: EdgeType.bottomEdge, 
-                    size: 30,
-                    sigma: 0, 
-                    tintColor: Theme.of(context).scaffoldBackgroundColor.withOpacity(1),
-                    controlPoints: [
-                      ControlPoint(
-                        position: 0,
-                        type: ControlPointType.visible,
-                      ),
-                      ControlPoint(
-                        position: 1,
-                        type: ControlPointType.transparent,
-                      ),
-                    ],)
-                  
-                ],
-                child: Container(
-                  constraints: BoxConstraints(maxHeight:size.height*0.6),
-                  child: Column(
-                    children: [
-                      Expanded(child: SizedBox(
-                        width: 700,
-                        child: ListView.builder(
-                          //controller: _scrollController,
-                          itemCount: _conteudos.length,
-                          itemBuilder: (context, index){
-                            return _conteudos[index];
-                          },
-                        ),
-                      ),)
-                    ],
-                  )
-                ),
+                    ),)
+                  ],
+                )
               ),
             ]
           ),

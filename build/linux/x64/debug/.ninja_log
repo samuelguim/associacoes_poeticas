@@ -1,107 +1,106 @@
 # ninja log v5
-8706	9221	1740004002334452280	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
-44	6256	0	flutter/_phony_	1774c3ce3c858c9c
-23130	25865	1735341830516921921	CMakeFiles/associacoes_poeticas.dir/main.cc.o	4d2ff557c4ece268
-6263	8648	1740004001758336485	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
-9221	9392	0	CMakeFiles/install.util	cb3f5e27ccc6291a
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
-6264	8706	1740004001815347933	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
-44	6256	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
-31	6464	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
-31	6464	0	flutter/_phony_	1774c3ce3c858c9c
-6465	8302	1740017238217976078	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
-6465	8358	1740017238274975135	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
-8358	8952	1740017238871965254	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
-8952	9216	0	CMakeFiles/install.util	cb3f5e27ccc6291a
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
-49	6568	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
-49	6568	0	flutter/_phony_	1774c3ce3c858c9c
-6568	8074	1740071566710726426	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
-6569	8135	1740071566769717377	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
-8135	8688	1740071567329634639	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
-8688	8982	0	CMakeFiles/install.util	cb3f5e27ccc6291a
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
 70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
 70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
 70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
-70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
-70	13151	0	flutter/_phony_	1774c3ce3c858c9c
-13154	17441	1740074581315388441	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
-13152	17547	1740074581418385568	CMakeFiles/associacoes_poeticas.dir/main.cc.o	4d2ff557c4ece268
-13155	17555	1740074581424385400	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
 17555	18826	1740074582709349614	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
+70	13151	0	flutter/_phony_	1774c3ce3c858c9c
+13152	17547	1740074581418385568	CMakeFiles/associacoes_poeticas.dir/main.cc.o	4d2ff557c4ece268
+13154	17441	1740074581315388441	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
 18826	19199	0	CMakeFiles/install.util	cb3f5e27ccc6291a
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
+13155	17555	1740074581424385400	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
+70	13151	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
+22	5067	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
+22	5067	0	flutter/_phony_	1774c3ce3c858c9c
+5068	6719	1740074650896670221	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
+5068	6812	1740074651024667453	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
+6812	7526	1740074651752651759	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
+7526	8069	0	CMakeFiles/install.util	cb3f5e27ccc6291a
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
+43	6560	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
+43	6560	0	flutter/_phony_	1774c3ce3c858c9c
+6561	10150	1740075105590492057	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
+6562	10274	1740075105712492533	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
+10274	11501	1740075106947497377	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
+11501	12154	0	CMakeFiles/install.util	cb3f5e27ccc6291a
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/libflutter_linux_gtk.so	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_value.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/fl_view.h	1774c3ce3c858c9c
+118	6367	0	/home/samuel/Documentos/pequena maquina/associacoes_poeticas/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1774c3ce3c858c9c
+118	6367	0	flutter/_phony_	1774c3ce3c858c9c
+6371	9828	1740082000630043338	CMakeFiles/associacoes_poeticas.dir/flutter/generated_plugin_registrant.cc.o	ce7f09d61ca33540
+6372	9959	1740082000752007675	CMakeFiles/associacoes_poeticas.dir/my_application.cc.o	4d71a51b5d15fdf8
+9960	11307	1740082002112631075	intermediates_do_not_run/associacoes_poeticas	594970b300fba0f8
+11308	11794	0	CMakeFiles/install.util	cb3f5e27ccc6291a

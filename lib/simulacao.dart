@@ -2,6 +2,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter/material.dart';
 import 'package:knob_widget/knob_widget.dart';
 import 'package:align_positioned/align_positioned.dart';
+// ainda é necessário adicionar permissão para vídeos no android 
 
 class Simulacao extends StatefulWidget {
   const Simulacao({
@@ -95,7 +96,10 @@ class _SimulacaoState extends State<Simulacao>  {
 
     double proporcao(){
       double prop = 0;
-      if (size.height > size.width) {
+      if (size.height / size.width > 1.8) {
+        prop = 2/3;
+      }
+      else if (size.height > size.width){
         prop = 4/5;
       }
       else {
@@ -106,14 +110,12 @@ class _SimulacaoState extends State<Simulacao>  {
 
     return Center(
         child: Container(
-          margin: const EdgeInsets.fromLTRB(35, 40, 35, 40),
+          margin: EdgeInsets.fromLTRB(size.width*0.06, 0, size.width*0.06, 0),
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [ 
               //Text(_knobValue.toString()),
               //Text(_knobValue2.toString()),
-
-
               Container(
                 constraints: BoxConstraints(maxHeight:size.height*0.65, maxWidth: 700),
                 child: AspectRatio(
@@ -143,14 +145,26 @@ class _SimulacaoState extends State<Simulacao>  {
                             ),
                           ]
                         ),
-                        child: const Column(
+                        child: Column(
                           children: [
-                            Text(
+                            const Text(
                               'Recriação',  
                               textAlign: TextAlign.justify,
                               style: TextStyle(fontWeight: FontWeight.w600, color: Color(0xFFCD8621))),
-                            Divider(color: Colors.grey),
-                            Text(
+                            SizedBox(
+                              height: 7,
+                              child: Container(
+                                margin: const EdgeInsets.all(2.4),
+                                decoration: const BoxDecoration(
+                                  gradient: LinearGradient(colors: [
+                                    Color.fromARGB(0, 158, 158, 158),
+                                    Color.fromARGB(255, 196, 187, 166),
+                                    Color.fromARGB(0, 158, 158, 158),
+                                  ])
+                                ),
+                              ),
+                            ),
+                            const Text(
                               'Pequena Máquina de Associações Poéticas',
                               textAlign: TextAlign.center,),
                           ],
@@ -159,6 +173,7 @@ class _SimulacaoState extends State<Simulacao>  {
                       Expanded(
                         child: LayoutBuilder(
                           builder: (context, constraints) => Container(
+                            constraints: const BoxConstraints(maxHeight: 100),
                             clipBehavior: Clip.antiAlias,
                             decoration: BoxDecoration(
                               borderRadius: BorderRadius.circular(8),

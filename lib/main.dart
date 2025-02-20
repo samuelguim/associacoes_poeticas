@@ -8,7 +8,7 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setSystemUIOverlayStyle(const SystemUiOverlayStyle(
     systemNavigationBarColor: Color(0xFFE2DEDC),
-    statusBarColor: Color(0xFFE2DEDC),
+    statusBarColor: Color.fromRGBO(226, 222, 220, 1),
   ));
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
